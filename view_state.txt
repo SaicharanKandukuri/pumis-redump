@@ -1,0 +1,1 @@
+"__LASTFOCUS=&__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=${VIEW_STATE}&__VIEWSTATEGENERATOR=${VIEW_STATE_GENERATOR}&__VIEWSTATEENCRYPTED=${VIEW_STATE_ENCRYPTED}&hfWidth=945&hfHeight=948&hfLoginMethod=&txtUsername=${username}&txtPassword=${password}&btnLogin=Login"
