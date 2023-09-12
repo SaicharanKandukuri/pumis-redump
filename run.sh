@@ -25,7 +25,7 @@ password="$(urlEncode $2)"
 
 export VIEW_STATE=""
 export COKKIE=""
-TMP_BIN=$(mktemp puwifi-XXXX)
+TMP_BIN=$(mktemp puwifi-XXXX.tmp)
 
 source ./00-view-state.sh || exit 1
 source ./01-cokkie.sh || exit 1

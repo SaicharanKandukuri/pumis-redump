@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "02: sending login request.."
+echo -e "\t after this cookie \"${COKKIE}\" will be able to login.."
 curl -i -s --compressed -k -X $'POST' \
     -H $'Host: ums.paruluniversity.ac.in' \
     -H $'Cache-Control: max-age=0' \
